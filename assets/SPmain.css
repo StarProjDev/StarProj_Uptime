@@ -39,7 +39,7 @@
     }
 }
 
-div.Container {
+div.sapper {
     width: 100vw;
     height: 100vh;
     scroll-snap-type: y mandatory;
@@ -58,14 +58,7 @@ div.Container {
     }
 }
 
-div.Section {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-}
-div.mContainer {
+div.container {
     height: 100vh;
     width: 100vw;
     display: flex;
