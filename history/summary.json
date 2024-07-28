@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starproj.dev.ico",
     "slug": "star-proj-dev",
     "status": "down",
-    "uptime": "12.56%",
-    "uptimeDay": "12.56%",
-    "uptimeWeek": "12.56%",
-    "uptimeMonth": "12.56%",
-    "uptimeYear": "12.56%",
+    "uptime": "8.57%",
+    "uptimeDay": "8.57%",
+    "uptimeWeek": "8.57%",
+    "uptimeMonth": "8.57%",
+    "uptimeYear": "8.57%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 3
+      "2024-07-28": 5
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starnet.starproj.dev.ico",
     "slug": "star-net",
     "status": "down",
-    "uptime": "14.70%",
-    "uptimeDay": "14.70%",
-    "uptimeWeek": "14.70%",
-    "uptimeMonth": "14.70%",
-    "uptimeYear": "14.70%",
+    "uptime": "9.55%",
+    "uptimeDay": "9.55%",
+    "uptimeWeek": "9.55%",
+    "uptimeMonth": "9.55%",
+    "uptimeYear": "9.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 3
+      "2024-07-28": 5
     }
   }
 ]
