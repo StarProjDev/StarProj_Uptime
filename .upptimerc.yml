@@ -7,6 +7,8 @@ sites:
     url: https://www.StarProj.dev
   - name: StarNet
     url: https://www.starnet.starproj.dev
+  - name: Dashboard
+    url: https://www.dashboard.starproj.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
