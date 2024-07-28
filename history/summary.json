@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starproj.dev.ico",
     "slug": "star-proj-dev",
     "status": "up",
-    "uptime": "19.79%",
-    "uptimeDay": "19.79%",
-    "uptimeWeek": "19.79%",
-    "uptimeMonth": "19.79%",
-    "uptimeYear": "19.79%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "uptime": "23.31%",
+    "uptimeDay": "23.31%",
+    "uptimeWeek": "23.31%",
+    "uptimeMonth": "23.31%",
+    "uptimeYear": "23.31%",
+    "time": 829,
+    "timeDay": 829,
+    "timeWeek": 829,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2024-07-28": 179
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starnet.starproj.dev.ico",
     "slug": "star-net",
     "status": "up",
-    "uptime": "19.82%",
-    "uptimeDay": "19.82%",
-    "uptimeWeek": "19.82%",
-    "uptimeMonth": "19.82%",
-    "uptimeYear": "19.82%",
-    "time": 817,
-    "timeDay": 817,
-    "timeWeek": 817,
-    "timeMonth": 817,
-    "timeYear": 817,
+    "uptime": "23.35%",
+    "uptimeDay": "23.35%",
+    "uptimeWeek": "23.35%",
+    "uptimeMonth": "23.35%",
+    "uptimeYear": "23.35%",
+    "time": 830,
+    "timeDay": 830,
+    "timeWeek": 830,
+    "timeMonth": 830,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2024-07-28": 178
     }
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dashboard.starproj.dev.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-28": 12
+      "2024-07-28": 22
     }
   }
 ]
