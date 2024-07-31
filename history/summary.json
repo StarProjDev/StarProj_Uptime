@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starproj.dev.ico",
     "slug": "star-proj-dev",
     "status": "up",
-    "uptime": "91.06%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.06%",
-    "uptimeMonth": "91.06%",
-    "uptimeYear": "91.06%",
-    "time": 767,
-    "timeDay": 631,
-    "timeWeek": 767,
-    "timeMonth": 767,
-    "timeYear": 767,
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "94.79%",
+    "uptimeYear": "94.79%",
+    "time": 821,
+    "timeDay": 1361,
+    "timeWeek": 821,
+    "timeMonth": 821,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2024-07-28": 179
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starnet.starproj.dev.ico",
     "slug": "star-net",
     "status": "up",
-    "uptime": "91.08%",
+    "uptime": "94.80%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "91.08%",
-    "uptimeYear": "91.08%",
-    "time": 798,
-    "timeDay": 589,
-    "timeWeek": 798,
-    "timeMonth": 798,
-    "timeYear": 798,
+    "uptimeWeek": "94.80%",
+    "uptimeMonth": "94.80%",
+    "uptimeYear": "94.80%",
+    "time": 809,
+    "timeDay": 918,
+    "timeWeek": 809,
+    "timeMonth": 809,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2024-07-28": 178
     }
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-30": 49,
+      "2024-07-31": 40,
+      "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 296
     }
