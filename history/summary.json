@@ -4,7 +4,7 @@
     "url": "https://www.StarProj.dev",
     "icon": "https://icons.duckduckgo.com/ip3/www.starproj.dev.ico",
     "slug": "star-proj-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "86.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 852,
     "timeYear": 956,
     "dailyMinutesDown": {
+      "2025-03-24": 0,
       "2025-02-19": 141,
       "2025-02-04": 17,
       "2025-02-03": 16,
