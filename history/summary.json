@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.starproj.dev.ico",
     "slug": "star-proj-dev",
     "status": "down",
-    "uptime": "72.47%",
+    "uptime": "72.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "70.86%",
-    "time": 972,
-    "timeDay": 324,
-    "timeWeek": 192,
+    "time": 970,
+    "timeDay": 157,
+    "timeWeek": 195,
     "timeMonth": 167,
-    "timeYear": 956,
+    "timeYear": 953,
     "dailyMinutesDown": {
-      "2025-08-29": 62,
+      "2025-08-30": 58,
+      "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
@@ -135,8 +136,7 @@
       "2024-10-26": 377,
       "2024-10-21": 18,
       "2024-09-07": 1179,
-      "2024-09-06": 381,
-      "2024-08-30": 102
+      "2024-09-06": 381
     }
   }
 ]
